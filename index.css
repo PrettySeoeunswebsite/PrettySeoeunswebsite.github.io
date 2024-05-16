@@ -1,0 +1,90 @@
+h1{
+    font-size: 80px;
+    color: rgb(255, 225, 238);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    border-radius: 20px;
+}
+body{background-color: rgb(255, 199, 221);}
+h2{
+    font-size: 30px;
+    color: rgb(230, 100, 156);
+    font-family:Chalkduster, fantasy; 
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    color: rgb(197, 75, 128);
+    font-family:Chalkduster, fantasy; 
+    text-align: center;
+   
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h4{
+    font-size: 40px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
+h5{
+    font-size: 60px;
+    color: rgb(255, 129, 184);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    border-radius: 10px;
+  }
+h6{
+    font-size: 40px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
+h7{
+    font-size: 40px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
+h8{
+    font-size: 40px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: #fc97c8;
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
+.ETpic{border-radius: 15px;
+}
+.ABOUTpic{
+    border-radius: 15px;
+}
+.SCIENCEpic{
+    border-radius: 15px;
+}
+.SCIENCEpic2{
+    border-radius: 15px;
+}
+.INDEXpic{
+    border-radius: 15px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
