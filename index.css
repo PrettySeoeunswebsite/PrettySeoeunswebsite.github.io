@@ -70,6 +70,23 @@ h8{
     float: right;
     border-radius: 10px;
 }
+h9{ font-size: 39px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
+h10{
+    font-size: 39px;
+    color: rgb(255, 218, 234);
+    font-family:Chalkduster, fantasy; 
+    background-color: rgb(229, 133, 183);
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+}
 .ETpic{border-radius: 15px;
 }
 .ABOUTpic{
